@@ -1,0 +1,15 @@
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\SEMANA4\bin\Debug\net10.0\SEMANA4.exe
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\SEMANA4\bin\Debug\net10.0\SEMANA4.deps.json
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\SEMANA4\bin\Debug\net10.0\SEMANA4.runtimeconfig.json
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\SEMANA4\bin\Debug\net10.0\SEMANA4.dll
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\SEMANA4\bin\Debug\net10.0\SEMANA4.pdb
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\SEMANA4\obj\Debug\net10.0\SEMANA4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\SEMANA4\obj\Debug\net10.0\SEMANA4.AssemblyInfoInputs.cache
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\SEMANA4\obj\Debug\net10.0\SEMANA4.AssemblyInfo.cs
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\SEMANA4\obj\Debug\net10.0\SEMANA4.csproj.CoreCompileInputs.cache
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\SEMANA4\obj\Debug\net10.0\SEMANA4.sourcelink.json
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\SEMANA4\obj\Debug\net10.0\SEMANA4.dll
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\SEMANA4\obj\Debug\net10.0\refint\SEMANA4.dll
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\SEMANA4\obj\Debug\net10.0\SEMANA4.pdb
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\SEMANA4\obj\Debug\net10.0\SEMANA4.genruntimeconfig.cache
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\SEMANA4\obj\Debug\net10.0\ref\SEMANA4.dll
