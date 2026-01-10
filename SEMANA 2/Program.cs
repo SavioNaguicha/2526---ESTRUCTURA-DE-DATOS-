@@ -7,22 +7,20 @@ namespace CalcularArea
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args)//Se crea un punto de entrada de programa
         {
-            double radio = 5.0;
-            double calcular =  CalcularArea(radio);
+            double radio = 5.0; // Se asigna los valor 5.0
+            double calcular =  CalcularArea(radio); // Se crea el argumento para que guarde el resultado en la variable
 
-            //Se muestra el resulatdo en la consola
+            //Se crea la funcion para mostrar resulatado en la consola
             Console. WriteLine($" EL area del cicuito con radio {radio} es: {calcular:f4}");
             Console.ReadKey();
         }
 
-            //
+            //creamos la funcion para Calcular Area 
             public static double CalcularArea(double Radio)
             {
                 return Math.PI*Radio * Radio;
-                
-
 
         }
     }
