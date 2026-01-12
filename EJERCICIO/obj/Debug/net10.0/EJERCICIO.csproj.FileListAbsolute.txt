@@ -1,0 +1,15 @@
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\EJERCICIO\bin\Debug\net10.0\EJERCICIO.exe
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\EJERCICIO\bin\Debug\net10.0\EJERCICIO.deps.json
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\EJERCICIO\bin\Debug\net10.0\EJERCICIO.runtimeconfig.json
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\EJERCICIO\bin\Debug\net10.0\EJERCICIO.dll
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\EJERCICIO\bin\Debug\net10.0\EJERCICIO.pdb
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\EJERCICIO\obj\Debug\net10.0\EJERCICIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\EJERCICIO\obj\Debug\net10.0\EJERCICIO.AssemblyInfoInputs.cache
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\EJERCICIO\obj\Debug\net10.0\EJERCICIO.AssemblyInfo.cs
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\EJERCICIO\obj\Debug\net10.0\EJERCICIO.csproj.CoreCompileInputs.cache
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\EJERCICIO\obj\Debug\net10.0\EJERCICIO.sourcelink.json
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\EJERCICIO\obj\Debug\net10.0\EJERCICIO.dll
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\EJERCICIO\obj\Debug\net10.0\refint\EJERCICIO.dll
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\EJERCICIO\obj\Debug\net10.0\EJERCICIO.pdb
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\EJERCICIO\obj\Debug\net10.0\EJERCICIO.genruntimeconfig.cache
+C:\Users\Savio\Desktop\ESTRUCTURA DE DATOS\EJERCICIO\obj\Debug\net10.0\ref\EJERCICIO.dll
